@@ -165,12 +165,7 @@ public void subirvol() {
 /**
 *Baja el volimen de uno en uno, min 0
 */
-	@Override
-public void bajarvol() {
-    // Disminuye el vol (minimo 0)
-    if (vol>0){
-        vol-=1;
-    }
+
 }
 
 /**
